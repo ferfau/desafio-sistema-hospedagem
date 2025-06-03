@@ -24,3 +24,7 @@ Tecnologias Usadas (As Estrelas do Show) 🌟
 C#: A linguagem elegante e poderosa que fez tudo isso acontecer.
 
 .NET: O framework que nos deu superpoderes para construir esse sistema.</p>
+
+
+![Static Badge](https://img.shields.io/badge/Status--black?label=Em%20Desenvolvimento&color=green)
+
